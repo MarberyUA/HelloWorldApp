@@ -5,6 +5,7 @@ public class HelloWorld {
 
     static void greating(){
         System.out.println("Hello world!");
+        System.out.println("Hello mates!");
     }
 
 }
